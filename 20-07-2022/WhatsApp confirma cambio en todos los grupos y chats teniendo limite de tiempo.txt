@@ -1,7 +1,0 @@
-WhatsApp confirma cambio en todos los grupos y chats teniendo limite de tiempo
-
-WhatsApp lanza una nueva función que va a dar que hablar. Cuál es el cambio que llegó a todos los mensajes y grupos.
-
-WhatsApp está trabajando en una nueva actualización que permitirá que las personas puedan configurar varios chats ya existentes temporales de forma automática. Hace algún tiempo, WhatsApp incorporó la función de mensajes temporales, con la posibilidad de elegir tiempos de días semanas o meses. Ahora, a esta función, se suma un cambio que será muy útil para todos.
-Ahora este servicio tiene diferentes opciones para activar los mensajes temporales, en conversaciones y chats grupales. En ambos casos, se puede configurar chat por chat de manera individual. Además, tanto en los chats individuales como en los grupales, Posteriormente, se anunció que esta opción se podía ya que, al pulsar sobre uno de los chats, la aplicación permitía seleccionar varios a la vez para convertirlos en conversaciones temporales. Cualquier miembro puede habilitar o deshabilitar los mensajes temporales. No obstante, en el caso de los chats grupales, esta opción está limitada a los administradores.
-Por ahora, lo más novedoso de WhatsApp es que está desarrollando esta última función en la versión 2.22.16.8 de la aplicación de mensajería para Android, lanzada a través del Programa Beta de Google Play.
