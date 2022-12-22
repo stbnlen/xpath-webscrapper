@@ -1,0 +1,16 @@
+
+                        Francia multa a Microsoft por hasta US$63 millones debido a la gestión de cookies
+                    
+
+El organismo explicó que, al visitar esa página, las "cookies", sobre todo publicitarias, comenzaban a descargarse sin consentimiento del usuario
+
+Las autoridades francesas anunciaron este jueves una multa de US$63 millones contra
+ Microsoft
+ por su forma de gestionar los permisos para las
+ "cookies".
+La Comisión Nacional de Informática y Libertades (Cnil) de Francia explicó en un comunicado que el gigante informático no ha puesto en marcha un sistema para rechazar las "cookies" tan sencillo como para aceptarlas en su página de internet bing.com.
+El organismo explicó que, tras una denuncia, comprobó que, al visitar esa página, las "cookies", sobre todo publicitarias, comenzaban a descargarse sin consentimiento del usuario.
+También constató la ausencia de un botón que permitiera rechazar la entrada de "cookies" de una forma tan sencilla como aceptarlas.
+La Cnil justificó el volumen de la multa por el número de personas afectadas y por los beneficios que la compañía obtiene de forma indirecta a través de ingresos publicitarios generados a partir de los datos recogidos por las "cookies".
+Además de la sanción económica, Microsoft está obligada a incluir en su página bing.com, en un período máximo de tres meses, un sistema para que sus usuarios en Francia acepten realmente las "cookies" antes de que comiencen a entrar en sus dispositivos electrónicos.
+En caso contrario, la compañía podría ser sancionada con una multa de US$63.000 diarios en caso de retraso, concluye la Cnil.
